@@ -1,6 +1,6 @@
 
 
-# 🎵 Music Store Data Analysis Project
+# 🎵 SQL Music Store Data Analysis Project
 
 ## 📋 Project Overview
 A comprehensive analysis of a Music Store's database using PostgreSQL to derive business insights.
